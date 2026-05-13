@@ -2,6 +2,12 @@
 
 A Python project that trains Dino agents using a simple neural network + genetic algorithm, then visualizes each generation in a pygame simulation.
 
+## Demo
+
+<video src="assets/dino-ai-demo.mp4" controls muted autoplay loop playsinline width="100%">
+	Your browser does not support the video tag.
+</video>
+
 ## Highlights
 
 - Neuroevolution loop with crossover, mutation, and elitism
@@ -14,6 +20,7 @@ A Python project that trains Dino agents using a simple neural network + genetic
 ```text
 .
 ├── assets/
+│   ├── dino-ai-demo.mp4
 │   └── sprite.png
 ├── src/
 │   └── dino_ai/
