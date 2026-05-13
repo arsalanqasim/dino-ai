@@ -3,8 +3,8 @@
 A Python project that trains Dino agents using a simple neural network + genetic algorithm, then visualizes each generation in a pygame simulation.
 
 ## Demo
-https://github.com/arsalanqasim/dino-ai/blob/main/assets/dino-ai-demo-video.mp4
-<video src="" controls muted autoplay loop playsinline width="100%">
+
+<video src="https://github.com/user-attachments/assets/5f573532-9b7f-435f-af3e-bb1f10f868fb" controls muted autoplay loop playsinline width="100%">
 	Your browser does not support the video tag.
 </video>
 
